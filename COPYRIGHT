@@ -1,18 +1,5 @@
-# amiga-tools
-
-A few helper scripts/programs for Amiga development
-
-
-# Summary
-
-This tool box contains the following python3 programs:
-- chkrom.py - Check and possibly correct the Amiga ROM check sum etc.
-- aromld.py - aromld.py - Create an Amiga ROM file from binary files
-
-
-# Legal notice
-
-Author: Skywalker a.k.a. J.Karlsson <j.karlsson@retrocoder.se>\
+amiga-tools - A few helper scripts/programs for Amiga development
+Author: Skywalker a.k.a. J.Karlsson <j.karlsson@retrocoder.se>
 Copyright (C) 2019 Skywalker. All rights reserved.
 
 This program is free software: you can redistribute it and/or modify
